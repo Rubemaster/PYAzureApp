@@ -1,0 +1,1 @@
+Fig. 5.48. Rotor blade planforms basic shape calculated for a twobladed rotor diameter 59.9 m Airfoil NACA 230 XX cLD  1.0, Re  3106

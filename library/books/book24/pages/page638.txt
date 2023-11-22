@@ -1,0 +1,1 @@
+7..0 aerodynamic roughness length Eijk a1remating unit tensor;7..01 aerodynamic roughness length upwind of ElR emissivity in the infrared bader Emnq a1remating unit tensor 7..02 aerodynamic roughness length downwind of E destruction rate of humidity variance by bader q

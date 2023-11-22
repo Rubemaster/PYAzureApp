@@ -1,0 +1,1 @@
+Some Hows over. Some air flows around.;Idealized flow over an isolated hill. The Froude number (Fr) compares the natural wavelength of the air to the width of the hill (WH).

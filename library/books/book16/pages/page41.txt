@@ -1,0 +1,1 @@
+Figure 1.6 Example of a small remotely operated vehicle (ROV) that is easily operated from the back deck of a vessel. This ROV is powered by an external source of electricity, but other types carry batteries and hence require less infrastructure on the platform. (Thomas Dahlgren)

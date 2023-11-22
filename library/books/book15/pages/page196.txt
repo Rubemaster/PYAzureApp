@@ -1,0 +1,1 @@
+The significance of the probability (P) of binomial tests is shown by ns (not significant) or the P value where this is less than 0.05 (or close to 0.05). Bold figures indicate predominantly (50 of studies) negative effects.;Table 7.2 Impacts of wind turbines on taxonomic orders.

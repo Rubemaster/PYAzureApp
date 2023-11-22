@@ -1,0 +1,1 @@
+CROSS WIND Wind direction essentially perpendicular to the mean wind direction. (Usually horizontal variations but can also be vertical.);FEATHERING To change the blade pitch angle of each blade of a rotor to a zero or near zero lift condition. (Normally used as a method of shutdown.)

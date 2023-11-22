@@ -1,0 +1,1 @@
+Table 131. Thermodynamic variables useful for cloud studies. Many of the expressions are approximate.;Saturation eqUiva le(noen)tial temperatureees  e  Cp T f .. t;ees  e  Cp T f .. tr  rsat when the air is saturated

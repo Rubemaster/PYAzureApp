@@ -1,0 +1,1 @@
+Cost of equity  Interviewees agreed on the estimation of the cost of equity for an onshore wind project in Lithuania. In general the cost of equity is in the range from 10 to 20 with an average value of 15.;Cost of debt  The cost of debt should be lower, about 56 taking into account EURIBOR (for ten years 1.5) and risk premium (34). Zero swap curve is about 1.5.

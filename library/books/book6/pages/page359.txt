@@ -1,0 +1,1 @@
+An alternative step towards a compact design is using a socalled inplane bearing. The rotor is held by a single roller bearing which, in addition to the radial and axial halves, can also sustain the tilting moments (Fig. 9.37).

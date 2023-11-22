@@ -1,0 +1,1 @@
+The comparison of results obtained from both wall modelling approaches can be seen on the horizontal nearground cutplanes coloured by the spanwise vvelocity component in (ms1) together with streamlines and also the geo graphical altitude contours, see Figs. 10.2 and 10.3.

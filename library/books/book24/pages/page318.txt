@@ -1,0 +1,1 @@
+(8) t Raw Da,a J (1 .I.  I  . t;Fig. 8.7 A true signal (a) sampled over a finite time (b) gives the segment (c) that is assumed to be periodic (d) by the Fourier transform. When the detrended signal (e) is sine or cosine tapered (I) the result is called conditioned data (g). This conditioned data (g) can then be used by FFT routines.

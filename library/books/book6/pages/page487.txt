@@ -1,0 +1,1 @@
+natural bending frequency below 1 P. The more recent turbines tend towards a moder ately soft tower design of approximately 1.3 P. A stiffer design with a first bending frequency below 1 P comes too close to the strength limit, at least for larger towers.

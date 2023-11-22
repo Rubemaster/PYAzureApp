@@ -1,0 +1,1 @@
+q,quality,quantity,quarter

@@ -1,0 +1,1 @@
+Fig. 11.33 Different models for production, B p, and consumption, BN, of TKE in the ML. The sum of the two curves in (a) equals tho total heat flux, as plotted in Fig. 11.13. The curves in (b) and (c) a.so sum to the same total. Fig. (d) show the corresponding curves for an idealized stratocumulustopped ML. (After Stage and Businger, 1981).

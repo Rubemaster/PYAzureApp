@@ -1,0 +1,1 @@
+0 5 10 IS 20 0 5 10 k (cycles) Flg.8.10g Line broadening (leakage).

@@ -1,0 +1,1 @@
+Ranges are presented in parentheses withindicating the standard error around a mean value. Values in italics within parentheses, especially in relation to collisions per MW per year, have been calculated from information provided in the study, but not specifically presented by the study.

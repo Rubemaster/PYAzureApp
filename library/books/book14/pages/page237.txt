@@ -1,0 +1,1 @@
+Table 7.2 Golden Eagle fuzzy logic membership functions of digitalelevation model (DEM) grid cells based on flights involving ridge crossings, interactions with other birds and wind turbine interaction events.

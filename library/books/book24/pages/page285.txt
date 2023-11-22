@@ -1,0 +1,1 @@
+for T in degrees Kelvin.esat 0.622 P; 17.67(T  273.16)  (0.6112 kPa)exp T  29.66

@@ -1,0 +1,1 @@
+Mxico     2.1   2  0.3 ; indicates no data available. Currency is expressed in year of budget. It is not adjusted to present value.  Projects supported by public funds. Bold italic indicates estimates

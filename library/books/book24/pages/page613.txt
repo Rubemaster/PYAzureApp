@@ -1,0 +1,1 @@
+(a) Bernoulli effect as flow accelerates over a 2D ridge (b) hydraulic jump downwind of a 2D ridge for greater ambient wind speed (c) flow around the sides of an isolated hill and (d) Karman vortex street downwind of the hill from (c). (Alter Hunt, 1980.)

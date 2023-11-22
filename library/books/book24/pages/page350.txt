@@ -1,0 +1,1 @@
+As you have probably anticipated, we could let A(t,x) represent a variable like perturbation velocity, u(t,x), or perturbation potential temperature, S(t,x). Thus we can use the same general approach as show above to spectrally decompose the TKE equation.;8.11.2 Spectral Representation of the TKE Equation

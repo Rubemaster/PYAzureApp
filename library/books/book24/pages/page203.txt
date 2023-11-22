@@ -1,0 +1,1 @@
+22) a) Is 9v Conserved during adiabatic ascent of an unsaturated air parcel? If not, does it increase or decrease with height? b) Same question, but in saturated (cloudy) air. c) If a saturated air parcel at 80 kPa (800 mb) has T  4C (thus, rs  6.5 gkg) and has a total water mixing ratio of rT  8.0 gkg, then calculate the virtual potential temperature at that altitude.

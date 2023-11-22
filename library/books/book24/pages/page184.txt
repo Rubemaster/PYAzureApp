@@ -1,0 +1,1 @@
+Schematic diagram of KelvinHelmholtz instability in a laboratory experiment where shear flow has been generated. The upper layer, water, flows to the right, and the lower more dense fluid, dyed brine, flows to the left. The figures are about half a second apart. After Thorpe (1969,1973) and Woods (1969).

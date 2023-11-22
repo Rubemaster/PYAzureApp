@@ -1,0 +1,1 @@
+A universal constant related to turbulent now near a surface (k..o.35 to 0.41 ).;An internal stability parameter (used in surface layer). ( .. R i in unstable conditions).

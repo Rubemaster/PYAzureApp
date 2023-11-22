@@ -1,0 +1,1 @@
+The measured cyclic dynamic loads on the rotor blades of the MOD2 correlate relatively well in the statistical mean with the values predicted by the computer programs MOSTAB and GEM. Obtaining such measurement data and the associated refinement of the computer programs are decisive prerequisites for the reliable structural dimen sioning of progressive lightweight design concepts.

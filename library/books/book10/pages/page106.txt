@@ -1,0 +1,1 @@
+ For onshore wind, the WACC is equal to 5.7.; Riskfree rate 2.25 for 15 years maturity.; Values for cost of debt 5.70 (2012) and 5.42 (2013).

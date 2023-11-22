@@ -1,0 +1,1 @@
+Plate II Development of the wake behind three rotors in a row. Regions of high vorticity appear as light colors. The rotors are indicated as black lines.;Plate III (a)(d) Isovorticity contours at various stages of the transient. Regions of high vorticity appear as light colors. The rotor is placed in the center of the domain. For explanation of panels see text.

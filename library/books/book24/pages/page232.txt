@@ -1,0 +1,1 @@
+Sample forecasts using secondorder closure (from Sun and Ogura, 1980). Solid lines in (b) and (d) indicate model forecast shaded areas show range of observed values.

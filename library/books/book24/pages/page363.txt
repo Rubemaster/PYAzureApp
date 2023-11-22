@@ -1,0 +1,1 @@
+Table 91. Summary of boundary layer scales.;VM  (ZJp)I2(dP!dx)2(dP!dy)2s 14  mechanical forcing scaleu. ML  u.2 w.  convective stress scale velocity;u. ML  u.2 w.  convective stress scale velocitya or U g  geostrophic wind speed

@@ -1,0 +1,1 @@
+Assume that OJ  (0, CI) cos A, CI) sin A) are the three components of the angularvelocity vector, where A is latitude and CI) is the speed of rotation of the earth (CI)  360 degrees in 24 hours). Assume that W  0 for simplicity. 25) For each separate tenn in problem 6, count the number of indices and determine if each tenn is a scalar, vector, tensor, etc.

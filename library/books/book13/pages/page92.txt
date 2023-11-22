@@ -1,0 +1,1 @@
+Fig. 12.1. Mean axial velocity components (a) and mean pressure (b) of a fully developed turbulent channel flow. Solid lines DNS by Kim et al., dotted lines RANS by Frahnert and Dallmann;Fig. 12.2. Components of the Reynolds stress tensor of a fully developed turbulent channel flow. Solid lines DNS by Kim et al., dotted lines RANS by Frahnert and Dallmann

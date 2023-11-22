@@ -1,0 +1,1 @@
+Table 19.9. Manufacturing costs of a gearless wind turbine with blade pitch control and vari ablespeed, permanentmagnet generator. Rated power 2000 kW, rotor diameter 82 m, rotor hub height 80 m

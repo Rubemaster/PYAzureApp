@@ -1,0 +1,1 @@
+36 J. Fernandez Puga et al.;36 J. Fernandez Puga et al.measurement (Table 6.1). Both models perform well calculating mean veloc ity values but differ remarkably regarding turbulence values. Best agreement is achieved performing a largeeddy simulation. The profiles for the mean ve locity and the turbulent kinetic energy fit very well to the measured profiles

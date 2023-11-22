@@ -1,0 +1,1 @@
+A few additional dimensionless scaling groups have been suggested in the literature to help explain boundary layer characteristics. Again, these are often inappropriately called stability parameters. One parameter that is useful in the surface layer is;J..L  fc L 2 g k (wev )s e f (uw) v C s

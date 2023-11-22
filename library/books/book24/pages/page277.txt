@@ -1,0 +1,1 @@
+Variation of bulk transfer coefficients with stability. (a) Drag coefficient vs. Richardson number and sensor height, z, normalized by roughness length, Zo (after Louis, 1979). (b) Variation of drag coefficient with stability, (after Joffre, 1982). (c) Same as (b) but for heat.

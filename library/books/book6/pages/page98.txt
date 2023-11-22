@@ -1,0 +1,1 @@
+The power coefficient, i.e. the ratio of the extractable mechanical power to the power contained in the air stream, therefore, now only depends on the ratio of the air velocities
